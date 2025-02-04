@@ -1,0 +1,3747 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"el",
+				"else if"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"bu",
+				"build"
+			],
+			[
+				"LIB",
+				"LIB_DIR"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"DE",
+				"define"
+			],
+			[
+				"ifn",
+				"ifndef"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"mb",
+				"mb-81"
+			],
+			[
+				"sta",
+				"startCol"
+			],
+			[
+				"S",
+				"startRow"
+			],
+			[
+				"sq",
+				"sqrtN"
+			],
+			[
+				"expl",
+				"explain_multi_map"
+			],
+			[
+				"explain_multi_",
+				"explain_multi_map"
+			],
+			[
+				"us",
+				"uset"
+			],
+			[
+				"e",
+				"emplace_back"
+			],
+			[
+				"vc",
+				"vector"
+			],
+			[
+				"ex",
+				"explain_queue"
+			],
+			[
+				"em",
+				"emplace"
+			],
+			[
+				"exp",
+				"explain_stack"
+			],
+			[
+				"emp",
+				"emplace_front"
+			],
+			[
+				"pus",
+				"push_front"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"sha",
+				"shading2"
+			],
+			[
+				"y",
+				"y_length="
+			],
+			[
+				"BLE",
+				"BLUE"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"shadin",
+				"shading1"
+			],
+			[
+				"BL",
+				"BLUE"
+			],
+			[
+				"Do",
+				"Dot"
+			],
+			[
+				"num",
+				"numpy"
+			],
+			[
+				"Math",
+				"MathTex"
+			],
+			[
+				"msu",
+				"msub_tang3"
+			],
+			[
+				"msg",
+				"msub_tang1"
+			],
+			[
+				"MAth",
+				"MathTex"
+			],
+			[
+				"msub",
+				"msub_tang3"
+			],
+			[
+				"fon",
+				"font_size="
+			],
+			[
+				"lin",
+				"line_spacing="
+			],
+			[
+				"tan",
+				"tan"
+			],
+			[
+				"Tex",
+				"Text"
+			],
+			[
+				"Fade",
+				"FadeOut"
+			],
+			[
+				"run",
+				"runtime"
+			],
+			[
+				"given",
+				"given_eqn"
+			],
+			[
+				"MathT",
+				"MathTex"
+			],
+			[
+				"tex",
+				"text1"
+			],
+			[
+				"pa",
+				"play"
+			],
+			[
+				"Curve",
+				"Curve_eqn"
+			],
+			[
+				"Parame",
+				"ParametricFunction"
+			],
+			[
+				"Para",
+				"ParametricFunction"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"glfwget",
+				"glfwGetKey"
+			],
+			[
+				"glView",
+				"glViewport"
+			],
+			[
+				"Inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"GLFW_OPENFL",
+				"GLFW_OPENGL_PROFILE"
+			],
+			[
+				"GLFW_CONTE",
+				"GLFW_CONTEXT_VERSION_MAJOR"
+			],
+			[
+				"g",
+				"glfwCreateWindow"
+			],
+			[
+				"gl",
+				"GLFW/"
+			],
+			[
+				"se",
+				"\"shell_cmd\""
+			],
+			[
+				"cm",
+				"\"cmd\""
+			],
+			[
+				"targ",
+				"target"
+			],
+			[
+				"target",
+				"\"target\""
+			],
+			[
+				"nam",
+				"\"name\""
+			],
+			[
+				"buidl",
+				"\"build_systems\""
+			],
+			[
+				"fol",
+				"folder_exclude_patterns"
+			],
+			[
+				"lsp",
+				"\"LSP\""
+			],
+			[
+				"exl",
+				"folder_exclude_patterns"
+			],
+			[
+				"sett",
+				"\"settings\""
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"ren",
+				"RENDER"
+			],
+			[
+				"globla",
+				"global"
+			],
+			[
+				"render",
+				"render_quad"
+			],
+			[
+				"glad_glenb",
+				"glad_glEnableVertexAttribArray"
+			],
+			[
+				"glEnable",
+				"glEnableVertexAttribArray"
+			],
+			[
+				"GL_STATIC",
+				"GL_STATIC_DRAW"
+			],
+			[
+				"ER",
+				"ERROR_EXIT"
+			],
+			[
+				"RNDER",
+				"render_state_internal"
+			],
+			[
+				"SL",
+				"SDL2/"
+			],
+			[
+				"GL_FRONT",
+				"GL_FRONT_AND_BACK"
+			],
+			[
+				"glPO",
+				"glPolygonMode"
+			],
+			[
+				"glBind",
+				"glBindVertexArray"
+			],
+			[
+				"glClear",
+				"glClearColor"
+			],
+			[
+				"go",
+				"global"
+			],
+			[
+				"re",
+				"render.h\""
+			],
+			[
+				"inte",
+				"inttypes.h"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"SDL_event",
+				"SDL_Event"
+			],
+			[
+				"puts",
+				"puts()"
+			],
+			[
+				"geterror",
+				"SDL_GetError"
+			],
+			[
+				"SDLWINDOWPE",
+				"SDL_WINDOW_OPENGL"
+			],
+			[
+				"SDL_WINDO",
+				"SDL_WINDOWPOS_CENTERED"
+			],
+			[
+				"SDL_GL_PROFILE",
+				"SDL_GL_CONTEXT_PROFILE_CORE"
+			],
+			[
+				"profilema",
+				"SDL_GL_CONTEXT_PROFILE_MASK"
+			],
+			[
+				"tar",
+				"\"target\""
+			],
+			[
+				"name",
+				"\"name\""
+			],
+			[
+				"bui",
+				"\"build_systems\""
+			],
+			[
+				"stdio",
+				"stdio.h"
+			],
+			[
+				"ignore",
+				"ignored_packages"
+			],
+			[
+				"fil",
+				"file_config"
+			],
+			[
+				"stru",
+				"struct\tstruct"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"en",
+				"enum\tEnumeration"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"Erro",
+				"ERROR_EXIT"
+			],
+			[
+				"shell",
+				"\"shell_cmd\""
+			],
+			[
+				"na",
+				"\"name\""
+			],
+			[
+				"ter",
+				"terminus_exec"
+			],
+			[
+				"index",
+				"index_exclude_patterns"
+			],
+			[
+				"excl",
+				"file_exclude_patterns"
+			],
+			[
+				"targe",
+				"\"target\""
+			],
+			[
+				"buil",
+				"\"build_systems\""
+			],
+			[
+				"build",
+				"\"build_systems\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.c",
+			"settings":
+			{
+				"buffer_size": 258,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "#In"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAbgEAAAAAAAAAAQAAAAAAAAABAAAASQAAAAAAAAAAAAAAAAAAAAABAAAAIw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "#in"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							2,
+							5,
+							3
+						],
+						"trigger": "include"
+					},
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAACAAAAaW4BAAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "stdio"
+					},
+					"BQAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":9,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							4,
+							8,
+							3
+						],
+						"trigger": "stdio.h>"
+					},
+					"BAAAAA4AAAAAAAAADgAAAAAAAAABAAAAbw0AAAAAAAAADQAAAAAAAAABAAAAaQoAAAAAAAAACgAAAAAAAAAEAAAAc3RkPgoAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "\n\na"
+					},
+					"AwAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAABQAAAAAAAAAFAAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "main"
+					},
+					"BAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert_completion",
+					{
+						"completion": "int main(int argc, char const${TM_C_POINTER: *}argv[])\n{\n\t${0:/* code */}\n\treturn 0;\n}",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "main"
+					},
+					"AgAAABQAAAAAAAAAFAAAAAAAAAAEAAAAbWFpbhQAAAAAAAAAVQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "sing"
+					},
+					"BQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAAAAAAAoAAAAvKiBjb2RlICovPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEEAAAAAAAAAQQAAAAAAAAABAAAAZ0AAAAAAAAAAQAAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "gnup"
+					},
+					"BAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAEQAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					6,
+					"left_delete",
+					null,
+					"BgAAAEMAAAAAAAAAQwAAAAAAAAABAAAAcEIAAAAAAAAAQgAAAAAAAAABAAAAdUEAAAAAAAAAQQAAAAAAAAABAAAAbkAAAAAAAAAAQAAAAAAAAAABAAAAZz8AAAAAAAAAPwAAAAAAAAABAAAAaT4AAAAAAAAAPgAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "show"
+					},
+					"BAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " ma"
+					},
+					"AwAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEQAAAAAAAAARAAAAAAAAAABAAAAYUMAAAAAAAAAQwAAAAAAAAABAAAAbUIAAAAAAAAAQgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "_menu"
+					},
+					"BQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEgAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAEgAAAAAAAAASAAAAAAAAAABAAAAIkgAAAAAAAAASAAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEgAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "1,"
+					},
+					"AgAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEoAAAAAAAAASgAAAAAAAAABAAAALEkAAAAAAAAASQAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAEgAAAAAAAAASAAAAAAAAAABAAAAIkgAAAAAAAAASAAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAgHNA"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "incl"
+					},
+					"BAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcAAAAAAAAAFwAAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert_completion",
+					{
+						"completion": "#include \"${1:${TM_FILENAME/\\..+$/.h/}}\"",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "inc"
+					},
+					"AgAAABQAAAAAAAAAFAAAAAAAAAADAAAAaW5jFAAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "./"
+					},
+					"AwAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfAAAAAAAAAAYAAABtYWluLmgfAAAAAAAAACAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB8AAAAAAAAAHwAAAAAAAAABAAAALx4AAAAAAAAAHgAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "../in"
+					},
+					"BQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "clude."
+					},
+					"BgAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"left_delete",
+					null,
+					"AQAAACgAAAAAAAAAKAAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"left_delete",
+					null,
+					"AQAAABMAAAAAAAAAEwAAAAAAAAABAAAAIw",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": "menu"
+					},
+					"BAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":5,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							59,
+							76,
+							1
+						],
+						"trigger": "menus.h\""
+					},
+					"BQAAACsAAAAAAAAAKwAAAAAAAAABAAAAdSoAAAAAAAAAKgAAAAAAAAABAAAAbikAAAAAAAAAKQAAAAAAAAABAAAAZSgAAAAAAAAAKAAAAAAAAAACAAAAbSIoAAAAAAAAADAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGYAAAAAAAAAZgAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "\nint"
+					},
+					"BQAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAoGxA"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": " a;"
+					},
+					"AwAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAABhAAAAAAAAAGIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGEAAAAAAAAAYQAAAAAAAAABAAAAO2AAAAAAAAAAYAAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGAAAAAAAAAAYAAAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "option;"
+					},
+					"BwAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": "\nPri"
+					},
+					"BQAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAGoAAAAAAAAAawAAAAAAAAAAAAAAawAAAAAAAABsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":84,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							71,
+							93,
+							5
+						],
+						"trigger": "printf"
+					},
+					"AgAAAGkAAAAAAAAAaQAAAAAAAAADAAAAUHJpaQAAAAAAAACCAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAAHAAAAAAAAAAcAAAAAAAAAARAAAAY29uc3QgY2hhciAqLCAuLi5wAAAAAAAAAIMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": "BANK-----"
+					},
+					"CgAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAAByAAAAAAAAABEAAABjb25zdCBjaGFyICosIC4uLnIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAACCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "-----------"
+					},
+					"CwAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAB/AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAHEAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHEAAAAAAAAAcQAAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": "--------------"
+					},
+					"DgAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAABzAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAdQAAAAAAAAB2AAAAAAAAAAAAAAB2AAAAAAAAAHcAAAAAAAAAAAAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"paste",
+					null,
+					"AQAAAGgAAAAAAAAAlgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAoGxA"
+				],
+				[
+					113,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ8AAAAAAAAAnwAAAAAAAAAiAAAALS0tLS0tLS0tLS0tLS1CQU5LLS0tLS0tLS0tLS0tLS0tLQ",
+					"AQAAAAAAAAABAAAAnwAAAAAAAADBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"insert",
+					{
+						"characters": "How"
+					},
+					"AwAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"insert",
+					{
+						"characters": " Can"
+					},
+					"BAAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKUAAAAAAAAAAAAAAKUAAAAAAAAApgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					3,
+					"left_delete",
+					null,
+					"AwAAAKUAAAAAAAAApQAAAAAAAAABAAAAbqQAAAAAAAAApAAAAAAAAAABAAAAYaMAAAAAAAAAowAAAAAAAAABAAAAQw",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"insert",
+					{
+						"characters": "can"
+					},
+					"AwAAAKMAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAAClAAAAAAAAAAAAAAClAAAAAAAAAKYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"insert",
+					{
+						"characters": " e"
+					},
+					"AgAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					9,
+					"left_delete",
+					null,
+					"CQAAAKcAAAAAAAAApwAAAAAAAAABAAAAZaYAAAAAAAAApgAAAAAAAAABAAAAIKUAAAAAAAAApQAAAAAAAAABAAAAbqQAAAAAAAAApAAAAAAAAAABAAAAYaMAAAAAAAAAowAAAAAAAAABAAAAY6IAAAAAAAAAogAAAAAAAAABAAAAIKEAAAAAAAAAoQAAAAAAAAABAAAAd6AAAAAAAAAAoAAAAAAAAAABAAAAb58AAAAAAAAAnwAAAAAAAAABAAAASA",
+					"AQAAAAAAAAABAAAAqAAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"insert",
+					{
+						"characters": "1."
+					},
+					"AgAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": " SIgn"
+					},
+					"BQAAAKEAAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAACjAAAAAAAAAAAAAACjAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKYAAAAAAAAApwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					4,
+					"left_delete",
+					null,
+					"BAAAAKYAAAAAAAAApgAAAAAAAAABAAAAIKUAAAAAAAAApQAAAAAAAAABAAAAbqQAAAAAAAAApAAAAAAAAAABAAAAZ6MAAAAAAAAAowAAAAAAAAABAAAASQ",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "ign"
+					},
+					"AwAAAKMAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAAClAAAAAAAAAAAAAAClAAAAAAAAAKYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": " In"
+					},
+					"AwAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAKsAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"paste",
+					null,
+					"AQAAAJYAAAAAAAAArQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					131,
+					2,
+					"left_delete",
+					null,
+					"AgAAAL8AAAAAAAAAvwAAAAAAAAABAAAAbr4AAAAAAAAAvgAAAAAAAAABAAAASQ",
+					"AQAAAAAAAAABAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "Up"
+					},
+					"AgAAAL4AAAAAAAAAvwAAAAAAAAAAAAAAvwAAAAAAAADAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAJUAAAAAAAAAlgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAP///////+9/"
+				],
+				[
+					144,
+					1,
+					"insert",
+					{
+						"characters": "\nScan"
+					},
+					"BgAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAADGAAAAAAAAAMcAAAAAAAAAAAAAAMcAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADJAAAAAAAAAAAAAADJAAAAAAAAAMoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAP///////+9/"
+				],
+				[
+					145,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							119,
+							144,
+							5
+						],
+						"trigger": "scanf"
+					},
+					"AwAAAMkAAAAAAAAAyQAAAAAAAAABAAAAbsYAAAAAAAAAxgAAAAAAAAADAAAAU2NhxgAAAAAAAADmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAAMwAAAAAAAAAzAAAAAAAAAAZAAAAY29uc3QgY2hhciAqcmVzdHJpY3QsIC4uLswAAAAAAAAA5wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAAAAAAAAADlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					1,
+					"insert",
+					{
+						"characters": "%d"
+					},
+					"AwAAAM0AAAAAAAAAzgAAAAAAAAAAAAAAzgAAAAAAAADOAAAAAAAAABkAAABjb25zdCBjaGFyICpyZXN0cmljdCwgLi4uzgAAAAAAAADPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAANAAAAAAAAAA0QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert",
+					{
+						"characters": " &o"
+					},
+					"AwAAANEAAAAAAAAA0gAAAAAAAAAAAAAA0gAAAAAAAADTAAAAAAAAAAAAAADTAAAAAAAAANQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAANQAAAAAAAAA1QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							126,
+							152,
+							1
+						],
+						"trigger": "option"
+					},
+					"AgAAANMAAAAAAAAA0wAAAAAAAAACAAAAb3DTAAAAAAAAANkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1QAAAAAAAADVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAANoAAAAAAAAA2wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"insert",
+					{
+						"characters": "option"
+					},
+					"BgAAAOcAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADpAAAAAAAAAAAAAADpAAAAAAAAAOoAAAAAAAAAAAAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA6wAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAO0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5wAAAAAAAADnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					1,
+					"left_delete",
+					null,
+					"AQAAALcAAAAAAAAAtwAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAuAAAAAAAAAC4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					167,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAALcAAAAAAAAAuAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtwAAAAAAAAC3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"insert",
+					{
+						"characters": "\\n"
+					},
+					"AgAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					176,
+					1,
+					"insert",
+					{
+						"characters": "\\n"
+					},
+					"AgAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					183,
+					1,
+					"insert",
+					{
+						"characters": "]\\n"
+					},
+					"AwAAAMUAAAAAAAAAxgAAAAAAAAAAAAAAxgAAAAAAAADHAAAAAAAAAAAAAADHAAAAAAAAAMgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					185,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMUAAAAAAAAAxQAAAAAAAAABAAAAXQ",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/menus.c",
+			"settings":
+			{
+				"buffer_size": 117,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AwAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAuAAAAAAAAABIAAABwcmludGYoIiVkXG4iLCBhKTsuAAAAAAAAAC8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAC8AAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAADAAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAADEAAAAAAAAAMQAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " -1"
+					},
+					"AwAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADQAAAAAAAAANQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADcAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAADgAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAOgAAAAAAAAA6AAAAAAAAAAEAAAAJOgAAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "S"
+					},
+					"AQAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"left_delete",
+					null,
+					"AQAAADwAAAAAAAAAPAAAAAAAAAABAAAAUw",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "pr"
+					},
+					"AgAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":84,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							21,
+							23,
+							2
+						],
+						"trigger": "printf"
+					},
+					"AgAAADwAAAAAAAAAPAAAAAAAAAACAAAAcHI8AAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAAEMAAAAAAAAAQwAAAAAAAAARAAAAY29uc3QgY2hhciAqLCAuLi5DAAAAAAAAAFYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "SIgn"
+					},
+					"BQAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABFAAAAAAAAABEAAABjb25zdCBjaGFyICosIC4uLkUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": " In"
+					},
+					"AwAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEUAAAAAAAAARQAAAAAAAAABAAAASQ",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAE0AAAAAAAAATgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAP///////+9/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " s"
+					},
+					"AgAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAoHpA"
+				],
+				[
+					38,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFIAAAAAAAAAUgAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "esl"
+					},
+					"AwAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFQAAAAAAAAAVAAAAAAAAAABAAAAbFMAAAAAAAAAUwAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "lse"
+					},
+					"AwAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					4,
+					"left_delete",
+					null,
+					"BAAAAFUAAAAAAAAAVQAAAAAAAAABAAAAZVQAAAAAAAAAVAAAAAAAAAABAAAAc1MAAAAAAAAAUwAAAAAAAAABAAAAbFIAAAAAAAAAUgAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "el"
+					},
+					"AgAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							40,
+							43,
+							2
+						],
+						"trigger": "else if"
+					},
+					"AgAAAFIAAAAAAAAAUgAAAAAAAAACAAAAZWxSAAAAAAAAAG0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AgAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABcAAAAAAAAAAoAAABleHByZXNzaW9u",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFsAAAAAAAAAWwAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFIAAAAAAAAAUgAAAAAAAAARAAAAZWxzZSBpZiAoKSB7CgkKCX0",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "else"
+					},
+					"BAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAFcAAAAAAAAAWQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAWQAAAAAAAABZAAAAAAAAAAEAAAAJWQAAAAAAAABbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "pr"
+					},
+					"AgAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							53,
+							57,
+							2
+						],
+						"trigger": "printf"
+					},
+					"AgAAAFsAAAAAAAAAWwAAAAAAAAACAAAAcHJbAAAAAAAAAIAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAAGIAAAAAAAAAYgAAAAAAAAAdAAAAY29uc3QgY2hhciAqY29uc3QgRm9ybWF0LCAuLi5iAAAAAAAAAIEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "Sign"
+					},
+					"BQAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABkAAAAAAAAAB0AAABjb25zdCBjaGFyICpjb25zdCBGb3JtYXQsIC4uLmQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": " Up"
+					},
+					"AwAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAGwAAAAAAAAAbQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"cut",
+					null,
+					"AQAAAC0AAAAAAAAALQAAAAAAAABDAAAAaWYgKGEgLSAxKSB7CgkJcHJpbnRmKCJTaWduIEluIik7Cgl9IGVsc2UgewoJCXByaW50ZigiU2lnbiBVcCIpOwoJfQ",
+					"AQAAAAAAAAABAAAALQAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert_completion",
+					{
+						"completion": "if (${1:/* condition */})\n{\n\t${0:/* code */}\n}",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "if"
+					},
+					"AgAAAC0AAAAAAAAALQAAAAAAAAACAAAAaWYtAAAAAAAAAFQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AgAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAyAAAAAAAAAA8AAAAvKiBjb25kaXRpb24gKi8",
+					"AQAAAAAAAAABAAAAMQAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": " =="
+					},
+					"AwAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": " 1"
+					},
+					"AgAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"left_delete",
+					null,
+					"AQAAADYAAAAAAAAANgAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": " ||"
+					},
+					"AwAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					2,
+					"left_delete",
+					null,
+					"AgAAADkAAAAAAAAAOQAAAAAAAAABAAAAfDgAAAAAAAAAOAAAAAAAAAABAAAAfA",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "||"
+					},
+					"AgAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": " a=="
+					},
+					"BAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"left_delete",
+					null,
+					"AQAAADYAAAAAAAAANgAAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					2,
+					"left_delete",
+					null,
+					"AgAAADIAAAAAAAAAMgAAAAAAAAAPAAAAID09IDEgfHwgYSA9PSAyMQAAAAAAAAAxAAAAAAAAAAEAAABh",
+					"AQAAAAAAAAABAAAAQQAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"left_delete",
+					null,
+					"AQAAADIAAAAAAAAAMgAAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "svalid"
+					},
+					"BgAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAADgAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAADkAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC0AAAAAAAAALQAAAAAAAAAiAAAAaWYgKGlzdmFsaWQoYSkpCgl7CgkJLyogY29kZSAqLwoJfQ",
+					"AQAAAAAAAAABAAAATwAAAAAAAAAtAAAAAAAAAAAAAAAAgFBA"
+				],
+				[
+					109,
+					1,
+					"paste",
+					null,
+					"AQAAAC0AAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"insert",
+					{
+						"characters": "("
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAADgAAAAAAAAAOQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "!"
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build LSP Cache",
+					""
+				],
+				[
+					"Build and Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Build and Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build LSP Cache",
+					""
+				],
+				[
+					"Build and Run",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Build and Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build LSP Cache",
+					""
+				],
+				[
+					"Build and Run",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Build LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Game",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Build Game",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Build Project",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Clean",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Build Project",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/User/vlc.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/vlc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Build Project",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Cairo - HIGH",
+					""
+				],
+				[
+					"Cairo - LOW",
+					""
+				],
+				[
+					"Cairo - MID",
+					""
+				],
+				[
+					"OpenGL - HIGH",
+					""
+				],
+				[
+					"OpenGL - LOW",
+					""
+				],
+				[
+					"OpenGL - MID",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Manim.sublime-build",
+					""
+				],
+				[
+					"Packages/User/manimVideos.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PythonU.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PythonU.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Cairo - LOW",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build TCC",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Build and Run TCC",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build TCC",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Build and Run TCC",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build TCC",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Build and Run TCC",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Game: Clean",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Run",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"git remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"mar",
+				"Markmon launch"
+			],
+			[
+				"ma",
+				"Markmon launch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"ter",
+				"Terminal (panel)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Terminal (panel)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"op",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"open",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"save proje",
+				"Project: Save As"
+			],
+			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
+				"cancl",
+				"Build: Cancel"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"enable lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"ope",
+				"Open Containing Folder…"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"setting lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"all",
+				"Git: Add All"
+			],
+			[
+				"ull",
+				"Git: Pull"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"shelll",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"new buil",
+				"Build: New Build System"
+			],
+			[
+				"git all",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Graph All"
+			],
+			[
+				"git stage",
+				"Git: Diff Staged Files"
+			],
+			[
+				"save projec",
+				"Project: Save As"
+			],
+			[
+				"ipen",
+				"Snippet: Enumeration"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packages",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"set syntaglsl",
+				"Set Syntax: OpenGL SL"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"new snippet",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packagesync",
+				"PackageSync: Sync Online - Enable Syncing"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 275.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Dev/C/bank"
+	],
+	"file_history":
+	[
+		"/E/Dev/C/bank/Makefile",
+		"/E/Dev/C/bank/src/menus.c",
+		"/E/Dev/C/bank/include/menus.h",
+		"/C/Users/Shubham Pawade/Desktop/website/index.html",
+		"/C/Users/Shubham Pawade/Desktop/website/.gitignore",
+		"/C/Users/Shubham Pawade/Desktop/website/assets/js/theme.js",
+		"/C/Users/Shubham Pawade/Desktop/vertex/index.html",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/Longest Substring without repeat/optimal-longest-substring-without-repeating-characters.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/Longest Consecutive Sequence/brute-longest-consecutive-sequence.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/Longest Consecutive Sequence/better-longest-consecutive-sequence.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/Longest Substring without repeat/brute-longest-substring-without-repeating-characters.cpp",
+		"/C/Users/Shubham Pawade/Desktop/ProPractice/CppProL/CPPSublime/outputf.in",
+		"/C/Users/Shubham Pawade/Desktop/ProPractice/CppProL/CPPSublime/inputf.in",
+		"/C/Users/Shubham Pawade/Desktop/ProPractice/CppProL/CPPSublime/striver.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/4-Sum Problem/brute-4sum.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/4-Sum Problem/better-4sum.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/4-Sum Problem/optimal-4sum.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/2Sum Problem/optimal-two-sum.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/2Sum Problem/better-two-sum.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/4-Sum Problem/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/2Sum Problem/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-IV/2Sum Problem/brute-two-sum.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Repeat and Missing Number/optimal01-repeat-and-missing-number-array.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Repeat and Missing Number/optimal02-repeat-and-missing-number-array.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-III/Majority Element (n gt 2 times)/brute-majority-element.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-III/Majority Element (n gt 2 times)/better-majority-element.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-III/Majority Element (n gt 2 times)/optimal-majority-element.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Arrays Part-III/Majority Element (n gt 2 times)/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Repeat and Missing Number/brute-repeat-and-missing-number-array.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Repeat and Missing Number/better-repeat-and-missing-number-array.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Find the duplicate in an array of N+1 integers/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Find the duplicate in an array of N+1 integers/brute-find-the-duplicate-number.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Find the duplicate in an array of N+1 integers/better-find-the-duplicate-number.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Find the duplicate in an array of N+1 integers/better02-find-the-duplicate-number.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Merge two sorted arrays without extra space/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Merge two sorted arrays without extra space/optimal-merge-sorted-array.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Merge two sorted arrays without extra space/brute-merge-sorted-array.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Merge Overlapping Subintervals/optimal-merge-intervals.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Merge Overlapping Subintervals/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Merge Overlapping Subintervals/brute-merge-intervals.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Rotate Matrix/optimal-rotate-image.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Rotate Matrix/brute-rotate-image.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array Part-II/Rotate Matrix/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Stock Buy and Sell/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Stock Buy and Sell/optimal-best-time-to-buy-and-sell-stock.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Stock Buy and Sell/brute-best-time-to-buy-and-sell-stock.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Sort an array of 0's, 1's and 2's/optimal-sort-colors.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Stock Buy and Sell/brute-buy-stocks.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Sort an array of 0's, 1's and 2's/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Sort an array of 0's, 1's and 2's/brute-sort-colors.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Sort an array of 0's, 1's and 2's/better-sort-colors.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Kadane's Algorithm/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Kadane's Algorithm/brute-maximum-subarray.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Kadane's Algorithm/optimal-maximum-subarray.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Next Permutation/optimal-next-permutation.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Next Permutation/better-next-permutation.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Next Permutation/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Pascal's Triangle/optimal-pascals-triangle.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Pascal's Triangle/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver SDE Sheet/Array/Set Matrix Zeros/README.md",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver’s SDE Sheet/Array/Set Matrix Zeros/brute-set-matrix-zeroes.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver’s SDE Sheet/Array/Set Matrix Zeros/better-set-matrix-zeroes.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver’s SDE Sheet/Array/Set Matrix Zeros/optimial-set-matrix-zeroes.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/Striver’s SDE Sheet/Array/Set Matrix Zeros/README.md",
+		"/C/Users/Shubham Pawade/Desktop/All_testing/LeetHub/scripts/leetcode.js",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Hashing/Day 49 - Subarrays with sum K.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Hashing/Day 47 - Longest Consecutive Subsequence.cpp",
+		"/C/Users/Shubham Pawade/Desktop/pict_hackthon/ShetkariSahayak/index.html",
+		"/C/Users/Shubham Pawade/Desktop/pict_hackthon/ShetkariSahayak/css/styles.css",
+		"/C/Users/Shubham Pawade/Desktop/pict_hackthon/ShetkariSahayak/cdisease.html",
+		"/C/Users/Shubham Pawade/Desktop/Chat-Bot/test01/ai.py",
+		"/C/Users/Shubham Pawade/Desktop/Chat-Bot/test01/app.py",
+		"/C/Users/Shubham Pawade/Desktop/Chat-Bot/test01/index.html",
+		"/C/Users/Shubham Pawade/Desktop/Chat-Bot/test01/crop_disease_18nov.json",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Matrix/Day 36 - Spirally traversing a matrix.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Matrix/Day 37 - Rotate by 90 degree.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Search/Day 34 - Allocate Minimum Pages.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Search/Day 33 - Aggressive Cows.cpp",
+		"/C/Users/Shubham Pawade/Desktop/YTVideoDownload/video_links.txt",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Search/Day 29 - Sorted and Rotated Minimum.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Sorting/Day 22 - Find H-Index.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Array/Day 2 - Move All Zeroes to End.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Sorting/Day 21 - Sort 0s, 1s and 2s.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Array/Day 10 - Kadane's Algorithm.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Sorting/Day 24 - Overlapping Intervals.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Sorting/Day 23 - Count Inversions.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Sorting/Day 25 - Insert Interval.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Sorting/Day 26 - Non-overlapping Intervals.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Sorting/Day 27 - Merge Without Extra Space.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Search/Day 28 - Number of occurrence.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Array/Day 6 - Majority Element II.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/String/Day 20 - Strings Rotations of Each Other.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/String/Day 18 - Search Pattern (KMP-Algorithm).cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/String/Day 19 - Min Chars to Add for Palindrome.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/String/Day 16 - Anagram.cpp",
+		"/C/Users/Shubham Pawade/Documents/GitHub/GfG_160_Days_of_Problem_Solving/Day 4 - Rotate Array.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Bit Manipulation/Q19_Binary_to_integer.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Bit Manipulation/Q17_Most_Significant_Bit.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Bit Manipulation/Q4_Count_total_set_bits.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Bit Manipulation/Q6_Find_position_of_set_bit.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q18.Search_Pattern_(Rabin-Karp_Algorithm).cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q15.Next_Permutation.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q10.All_Subsequence_of_string.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q11.Permutations_of_a_String.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q12.Split_the_binary_string_into_substr_with_equ_num_of _0s_1s.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q16.Balanced_Parenthesis_problem.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q8.Longest_Palindrome_Substring.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q1.Reverse_a_String.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q2.Check_Palindrome.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q5.Strings_Rotations_or_Not.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/String/Q7.Count_and_Say.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Bit Manipulation/Q20_Swap_two_numbers.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Bit Manipulation/Q1_Number_of_1_Bits.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Bit Manipulation/Q3_Count_number_of_bits_to_be_flipped_to_convert_A_to_B.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Bit Manipulation/Q2_Power_of_2_or_not.cpp",
+		"/C/Users/Shubham Pawade/Desktop/Academics/CollegeAssignments/ProgrammingLab/Sudoku.cpp",
+		"/C/Users/Shubham Pawade/Desktop/Academics/CollegeAssignments/ProgrammingLab/GPTSudoku.cpp",
+		"/C/Users/Shubham Pawade/Desktop/Academics/CollegeAssignments/ProgrammingLab/RoundRobinQueue.cpp",
+		"/C/Users/Shubham Pawade/Desktop/Academics/CollegeAssignments/ProgrammingLab/PracticeSudoku.cpp",
+		"/C/Users/Shubham Pawade/Desktop/Academics/CollegeAssignments/ProgrammingLab/outputf.in",
+		"/C/Users/Shubham Pawade/Desktop/Academics/CollegeAssignments/ProgrammingLab/inputf.in",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Searching and Sorting/outputf.in",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Searching and Sorting/inputf.in",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Searching and Sorting/Q17_Sort_by_Set_Bit_Count.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Searching and Sorting/Q10_Find_Pair_Given_Difference.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Searching and Sorting/Q11_Find_All_Four_Sum_Numbers.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Searching and Sorting/Q1_First_and_Last_Occurrences.cpp",
+		"/C/Users/Shubham Pawade/Desktop/PracticeMidSemPS/Searching and Sorting/Q23_K-th_element_of_two_Arrays.cpp"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/*",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///E:/Dev/C/bank/src/main.c",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/menus.c",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/*",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///E:/Dev/C/bank/src/menus.c",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 354.0
+	},
+	"output.Powershell":
+	{
+		"height": 306.0
+	},
+	"output.Terminus":
+	{
+		"height": 168.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 217.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 116.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 168.0
+	},
+	"output.exec":
+	{
+		"height": 73.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 247.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++ 14.sublime-build",
+	"project": "bank.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"src\\main.c"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"make",
+				"starting_opengl\\Makefile"
+			],
+			[
+				"shade",
+				"starting_opengl\\src\\shaders.h"
+			],
+			[
+				"mak",
+				"starting_opengl\\Makefile"
+			],
+			[
+				"HEllo",
+				"Computer Graphics\\LearnOpenGL\\Hello Window.md"
+			],
+			[
+				"glfw",
+				"Computer Graphics\\GLFW.md"
+			],
+			[
+				"glad",
+				"Computer Graphics\\GLAD.md"
+			],
+			[
+				"open",
+				"Computer Graphics\\OpenGL.md"
+			],
+			[
+				"sublime",
+				"starting_opengl\\starting_opengl.sublime-project"
+			],
+			[
+				"ma",
+				"starting_opengl\\Makefile"
+			],
+			[
+				"",
+				"starting_opengl\\starting_opengl.sublime-project"
+			],
+			[
+				"sublime ",
+				"starting_opengl\\starting_opengl.sublime-project"
+			],
+			[
+				"sublie",
+				"starting_opengl\\dsrc\\glfw-3.4\\sbuild\\GLFW.sublime-project"
+			],
+			[
+				"p",
+				"doc\\OpenGL.md"
+			],
+			[
+				"sublim",
+				"sdl_game.sublime-project"
+			],
+			[
+				"subli",
+				"sdl_game.sublime-project"
+			],
+			[
+				"sub",
+				"sdl_game.sublime-project"
+			],
+			[
+				"render",
+				"src\\engine\\render\\render_internal.h"
+			],
+			[
+				"render_int",
+				"src\\engine\\render\\render_internal.h"
+			],
+			[
+				"global",
+				"src\\engine\\global.h"
+			],
+			[
+				"rende",
+				"src\\engine\\render\\render.c"
+			],
+			[
+				"ren",
+				"src\\engine\\render\\render.h"
+			],
+			[
+				"globa",
+				"src\\engine\\global.c"
+			],
+			[
+				"glo",
+				"src\\engine\\global.h"
+			],
+			[
+				"subil",
+				"sdl_game.sublime-project"
+			],
+			[
+				"config",
+				"gcc02\\config.ini"
+			],
+			[
+				"build",
+				"gcc02\\build.bat"
+			],
+			[
+				"vert",
+				"gcc02\\shaders\\default.vert"
+			],
+			[
+				"shaedr",
+				"gcc02\\shaders\\default.frag"
+			],
+			[
+				"buil",
+				"gcc02\\build.bat"
+			],
+			[
+				"io",
+				"gcc02\\src\\engine\\io\\io.c"
+			],
+			[
+				"config.c",
+				"gcc02\\src\\engine\\config\\config.c"
+			],
+			[
+				"input",
+				"gcc02\\src\\engine\\input.h"
+			],
+			[
+				"io.h",
+				"gcc02\\src\\engine\\io\\io.h"
+			],
+			[
+				".h",
+				"gcc02\\include\\SDL2\\SDL.h"
+			],
+			[
+				"util",
+				"gcc02\\src\\engine\\util.h"
+			],
+			[
+				"io.c",
+				"gcc02\\src\\engine\\io\\io.c"
+			],
+			[
+				"error",
+				"include\\SDL2\\SDL_error.h"
+			],
+			[
+				"c",
+				"c.bat"
+			],
+			[
+				"bui",
+				"build.bat"
+			],
+			[
+				"shader",
+				"shaders\\default.frag"
+			],
+			[
+				".c",
+				"barewc.c"
+			],
+			[
+				"line",
+				"countline.c"
+			],
+			[
+				"chars",
+				"countchars.c"
+			],
+			[
+				"m",
+				"main.c"
+			],
+			[
+				"pro",
+				"c.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 649.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Dev\\PythonProjects\\pygame\\pygame.sublime-project"
+			]
+		],
+		"width": 492.0
+	},
+	"select_symbol":
+	{
+		"height": 323.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 752.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 397.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

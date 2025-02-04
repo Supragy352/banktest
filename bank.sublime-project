@@ -1,0 +1,31 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	
+	"build_systems": [
+		{
+			"target": "terminus_exec",
+			"name": "Build Only",
+			"shell_cmd": "make build"
+		},
+		{
+			"target": "terminus_exec",
+			"name": "Build Run",
+			"shell_cmd": "make buildnrun"
+		},
+		{
+			"target": "terminus_exec",
+			"name": "Run",
+			"shell_cmd": "make run"
+		},
+		{
+			"target": "terminus_exec",
+			"name": "Clean",
+			"shell_cmd": "make clean"
+		}
+	],
+}
